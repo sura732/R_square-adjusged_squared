@@ -1,0 +1,1 @@
+# R_square-adjusged_squared
